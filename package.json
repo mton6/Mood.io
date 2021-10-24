@@ -1,0 +1,25 @@
+{
+  "name": "mood_io",
+  "version": "1.0.0",
+  "description": "A web app that detects facial moods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sittiphat/mood_io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sittiphat/mood_io/issues"
+  },
+  "homepage": "https://github.com/Sittiphat/mood_io#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.10.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

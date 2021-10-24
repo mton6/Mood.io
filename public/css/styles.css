@@ -1,0 +1,14 @@
+.landing-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 21.4715px;
+
+  position: relative;
+  width: 175.8px;
+  height: 61.73px;
+
+  background: #1b48ab;
+  border-radius: 6.70984px;
+}
